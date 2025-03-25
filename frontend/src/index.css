@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+@import "tailwindcss";
+
+:root {
+    background-color: var(--color-primary);
+    
+}
+
+
+@theme{
+    --color-background: #222831; 
+    --color-primary: #31363F; /*beigel*/
+    --color-secondary: #76ABAE; /*teal*/
+    --color-darker: #EEEEEE; /*dark gray*/  
+    --font-raleway: Raleway, "sans-serif";
+}
+
+
+
+
+
